@@ -3,14 +3,14 @@
         {
             "id": 1,
             "photos": [
-                "https://www.bmw.kg/content/dam/bmw/common/all-models/m-series/m3-sedan/2023/highlights/bmw-3-series-cs-m-automobiles-gallery-impressions-m3-competition-02_890.jpg/jcr:content/renditions/cq5dam.resized.img.890.medium.time1669710247264.jpg",
-                "https://www.bmw.kg/content/dam/bmw/common/all-models/m-series/m3-sedan/2023/highlights/bmw-3-series-cs-m-automobiles-gallery-impressions-m3-competition-03_1920.jpg.asset.1669650891815.jpg"
+                "https://media.ed.edmunds-media.com/bmw/m3/2025/oem/2025_bmw_m3_sedan_competition-xdrive_fq_oem_3_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/bmw/m3/2025/oem/2025_bmw_m3_sedan_competition-xdrive_rq_oem_3_1280x855.jpg"
             ],
-            "name": "BMW M3 CS",
+            "name": "BMW M3 Sedan",
             "price": 12000000,
             "year": 2025,
             "steering": "Левый",
-            "color": "Белый",
+            "color": "Зеленый",
             "body": "Седан",
             "drive": "Полный",
             "mileage": 0,
