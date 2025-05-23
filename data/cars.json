@@ -3,8 +3,8 @@
         {
             "id": 1,
             "photos": [
-                "images/image-bmw-three-first.jpg",
-                "images/image-bmw-three-second.jpg"
+                "https://raw.githubusercontent.com/tcybkvv/nextDrive_data/refs/heads/main/images/image-bmw-three-first.jpg",
+                "https://raw.githubusercontent.com/tcybkvv/nextDrive_data/refs/heads/main/images/image-bmw-three-second.jpg"
             ],
             "name": "BMW 3 Series",
             "price": 7000000,
