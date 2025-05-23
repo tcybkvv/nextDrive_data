@@ -7,14 +7,14 @@
                 "https://www.bmw.kg/content/dam/bmw/common/all-models/m-series/m3-sedan/2023/highlights/bmw-3-series-cs-m-automobiles-gallery-impressions-m3-competition-03_1920.jpg.asset.1669650891815.jpg"
             ],
             "name": "BMW M3 CS",
-            "price": 7000000,
-            "year": 2020,
+            "price": 12000000,
+            "year": 2025,
             "steering": "Левый",
             "color": "Белый",
             "body": "Седан",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L бензин",
+            "engine": "3.0L twin-turbo бензин, 543 л.с.",
             "condition": "Новое"
         },
         {
@@ -24,14 +24,14 @@
                 "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2025/oem/2025_mercedes-benz_c-class_sedan_amg-c-43_rq_oem_3_1280x855.jpg"
             ],
             "name": "Mercedes-Benz C-Class",
-            "price": 6500000,
+            "price": 7500000,
             "year": 2025,
             "steering": "Левый",
             "color": "Черный металлик",
             "body": "Седан",
-            "drive": "Задний",
+            "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 255 л.с.",
             "condition": "Новое"
         },
         {
@@ -41,14 +41,14 @@
                 "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_rq_oem_2_1280x855.jpg"
             ],
             "name": "Audi A4",
-            "price": 6200000,
+            "price": 6500000,
             "year": 2025,
             "steering": "Левый",
             "color": "Белый перламутр",
-            "body": "Черный",
+            "body": "Седан",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 201 л.с.",
             "condition": "Новое"
         },
         {
@@ -58,14 +58,14 @@
                 "https://www.lexus.com.my/content/dam/lexus-v3-blueprint/models/suv/nx/mlp/my22/mlp/gallery/exterior/lexus-nx-gallery-ext-5-d.jpg"
             ],
             "name": "Lexus NX",
-            "price": 7000000,
+            "price": 7200000,
             "year": 2025,
             "steering": "Левый",
             "color": "Синий",
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.4L турбо бензин",
+            "engine": "2.4L турбо бензин, 275 л.с.",
             "condition": "Новое"
         },
         {
@@ -75,14 +75,14 @@
                 "https://media.ed.edmunds-media.com/volvo/xc60/2025/oem/2025_volvo_xc60_4dr-suv_t8-plus_rq_oem_1_1280x855.jpg"
             ],
             "name": "Volvo XC60",
-            "price": 7200000,
+            "price": 7800000,
             "year": 2025,
             "steering": "Левый",
             "color": "Серебристый",
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин + электромотор, 455 л.с. (гибрид)",
             "condition": "Новое"
         },
         {
@@ -92,14 +92,14 @@
                 "https://images.prismic.io/carwow/ZrZDSEaF0TcGI1Gz_2021JaguarXFFront3QStatic01.jpg?auto=format&cs=tinysrgb&fit=crop&q=60&w=750"
             ],
             "name": "Jaguar XF",
-            "price": 8000000,
+            "price": 8500000,
             "year": 2025,
             "steering": "Левый",
             "color": "Белый",
             "body": "Седан",
             "drive": "Задний",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 250 л.с.",
             "condition": "Новое"
         },
         {
@@ -109,14 +109,14 @@
                 "https://media.ed.edmunds-media.com/porsche/cayenne/2025/oem/2025_porsche_cayenne_4dr-suv_e-hybrid_rq_oem_1_1280x855.jpg"
             ],
             "name": "Porsche Cayenne",
-            "price": 12000000,
+            "price": 14000000,
             "year": 2025,
             "steering": "Левый",
             "color": "Черный",
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "3.0L турбо бензин + электромотор, 470 л.с. (гибрид)",
             "condition": "Новое"
         },
         {
@@ -126,14 +126,14 @@
                 "https://images.pistonheads.com/nimg/49421/blobid6.jpg"
             ],
             "name": "Land Rover Defender",
-            "price": 9500000,
+            "price": 10000000,
             "year": 2025,
             "steering": "Левый",
             "color": "Зеленый",
             "body": "Внедорожник",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L дизель",
+            "engine": "3.0L турбо дизель, 300 л.с.",
             "condition": "Новое"
         },
         {
@@ -143,14 +143,14 @@
                 "https://d3s8goeblmpptu.cloudfront.net/mrp/bmw/2025/x5/2025-bmw-x5_landing_639395.jpg"
             ],
             "name": "BMW X5",
-            "price": 11000000,
+            "price": 12000000,
             "year": 2025,
             "steering": "Левый",
             "color": "Черный",
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "3.0L турбо бензин, 375 л.с.",
             "condition": "Новое"
         },
         {
@@ -160,14 +160,14 @@
                 "https://media.ed.edmunds-media.com/mercedes-benz/gle-class/2025/oem/2025_mercedes-benz_gle-class_4dr-suv_amg-gle-63-s_rq_oem_1_1280x855.jpg"
             ],
             "name": "Mercedes-Benz GLE",
-            "price": 10500000,
+            "price": 11000000,
             "year": 2025,
             "steering": "Левый",
             "color": "Черный",
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "3.0L турбо бензин, 429 л.с.",
             "condition": "Новое"
         },
         {
@@ -177,14 +177,14 @@
                 "https://media.ed.edmunds-media.com/audi/q5/2025/oem/2025_audi_q5_4dr-suv_prestige-s-line_rq_oem_1_1280x855.jpg"
             ],
             "name": "Audi Q5",
-            "price": 6800000,
+            "price": 7200000,
             "year": 2025,
             "steering": "Левый",
             "color": "Синий",
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 261 л.с.",
             "condition": "Новое"
         },
         {
@@ -194,14 +194,14 @@
                 "https://media.ed.edmunds-media.com/lexus/lx/2025/oem/2025_lexus_lx_4dr-suv_600-f-sport-handling_rq_oem_1_1280x855.jpg"
             ],
             "name": "Lexus LX",
-            "price": 13000000,
+            "price": 15000000,
             "year": 2025,
             "steering": "Левый",
             "color": "Белый перламутр",
             "body": "Внедорожник",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.5L турбо бензин",
+            "engine": "3.4L twin-turbo бензин, 409 л.с.",
             "condition": "Новое"
         },
         {
@@ -218,7 +218,7 @@
             "body": "Внедорожник",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.5L турбо бензин",
+            "engine": "3.5L twin-turbo бензин, 450 л.с.",
             "condition": "Новое"
         },
         {
@@ -235,7 +235,7 @@
             "body": "Внедорожник",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "6.2L бензин",
+            "engine": "6.2L V8 бензин, 420 л.с.",
             "condition": "Новое"
         },
         {
@@ -252,7 +252,7 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "Электромотор, 402 л.с. (электрический)",
             "condition": "Новое"
         },
         {
@@ -269,7 +269,7 @@
             "body": "Седан",
             "drive": "Задний",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "4.0L twin-turbo бензин + электромотор, 791 л.с. (гибрид)",
             "condition": "Новое"
         },
         {
@@ -286,7 +286,7 @@
             "body": "Седан",
             "drive": "Задний",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 255 л.с.",
             "condition": "Новое"
         },
         {
@@ -303,7 +303,7 @@
             "body": "Седан",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "3.0L турбо бензин, 335 л.с.",
             "condition": "Новое"
         },
         {
@@ -320,7 +320,7 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.4L турбо бензин",
+            "engine": "2.4L турбо бензин, 275 л.с.",
             "condition": "Новое"
         },
         {
@@ -337,7 +337,7 @@
             "body": "Седан",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин + электромотор, 455 л.с. (гибрид)",
             "condition": "Новое"
         },
         {
@@ -354,7 +354,7 @@
             "body": "Внедорожник",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "4.4L турбо бензин",
+            "engine": "4.4L twin-turbo бензин, 523 л.с.",
             "condition": "Новое"
         },
         {
@@ -371,7 +371,7 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 221 л.с.",
             "condition": "Новое"
         },
         {
@@ -388,7 +388,7 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 255 л.с.",
             "condition": "Новое"
         },
         {
@@ -405,7 +405,7 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "3.0L турбо бензин, 335 л.с.",
             "condition": "Новое"
         },
         {
@@ -422,7 +422,7 @@
             "body": "Купе",
             "drive": "Задний",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "3.0L twin-turbo бензин, 473 л.с.",
             "condition": "Новое"
         },
         {
@@ -434,12 +434,12 @@
             "name": "Jaguar F-Pace",
             "price": 8200000,
             "year": 2025,
-            "steering": "Серый",
+            "steering": "Левый",
             "color": "Белый",
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 247 л.с.",
             "condition": "Новое"
         },
         {
@@ -456,7 +456,7 @@
             "body": "Седан",
             "drive": "Задний",
             "mileage": 0,
-            "engine": "2.0L турбо бензин",
+            "engine": "2.0L турбо бензин, 255 л.с.",
             "condition": "Новое"
         },
         {
@@ -473,7 +473,7 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "4.4L турбо бензин",
+            "engine": "4.4L twin-turbo бензин, 523 л.с.",
             "condition": "Новое"
         },
         {
@@ -482,15 +482,15 @@
                 "https://media.ed.edmunds-media.com/lexus/gx/2025/oem/2025_lexus_gx_4dr-suv_550-luxuryplus_fq_oem_1_1280x855.jpg",
                 "https://media.ed.edmunds-media.com/lexus/gx/2025/oem/2025_lexus_gx_4dr-suv_550-luxuryplus_rq_oem_2_1280x855.jpg"
             ],
-            "name": "Lexus GS",
+            "name": "Lexus GX",
             "price": 8500000,
             "year": 2025,
             "steering": "Левый",
             "color": "Белый",
-            "body": "Седан",
-            "drive": "Задний",
+            "body": "Внедорожник",
+            "drive": "Полный",
             "mileage": 0,
-            "engine": "3.5L бензин",
+            "engine": "3.4L twin-turbo бензин, 349 л.с.",
             "condition": "Новое"
         },
         {
@@ -507,7 +507,7 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 0,
-            "engine": "3.0L турбо бензин",
+            "engine": "3.0L турбо бензин, 335 л.с.",
             "condition": "Новое"
         }
     ]
